@@ -1,0 +1,24 @@
+h1, h2{
+    font-family: Arial;
+    font-style: bold;
+    color:  black;
+}
+
+h3{
+    font-family: cursive;
+    color:  gray;
+}
+
+a{
+    font-family: Arial;
+    font-size: large;
+    color:  black;
+        
+}
+
+p, label{
+    font-family: Arial;
+    font-size: medium;
+    color: gray;
+}
+
